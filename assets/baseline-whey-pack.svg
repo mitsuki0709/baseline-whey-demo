@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" role="img" aria-labelledby="title desc">
+  <title id="title">BASELINE WHEY ココア味の架空パッケージ</title>
+  <desc id="desc">黒い袋に黄緑のラインとBASELINE WHEYの文字が入った練習用プロテインパッケージ。</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <ellipse cx="360" cy="824" rx="214" ry="42" fill="#000" opacity=".14"/>
+  <g filter="url(#shadow)">
+    <path d="M160 80h400l34 78-28 626c-2 43-37 76-80 76H234c-43 0-78-33-80-76l-28-626z" fill="#121310"/>
+    <path d="M160 80h400l26 60H134z" fill="#1f211c"/>
+    <rect x="168" y="150" width="384" height="8" rx="4" fill="#c9ff39"/>
+    <text x="184" y="230" fill="#f8f7ef" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="6">BASELINE</text>
+    <text x="184" y="392" fill="#c9ff39" font-family="Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-5">WHEY</text>
+    <text x="184" y="447" fill="#f8f7ef" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">DAILY PROTEIN</text>
+    <line x1="184" y1="492" x2="536" y2="492" stroke="#44473e" stroke-width="2"/>
+    <text x="184" y="548" fill="#f8f7ef" font-family="Arial, sans-serif" font-size="22" font-weight="700">24g PROTEIN / SERVING</text>
+    <text x="184" y="588" fill="#b8bbb0" font-family="Arial, sans-serif" font-size="19">750g / ABOUT 23 SERVINGS</text>
+    <rect x="184" y="650" width="180" height="52" rx="26" fill="#c9ff39"/>
+    <text x="214" y="684" fill="#121310" font-family="Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="2">COCOA</text>
+    <text x="184" y="762" fill="#81857a" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">FICTIONAL PRACTICE PRODUCT</text>
+  </g>
+</svg>
